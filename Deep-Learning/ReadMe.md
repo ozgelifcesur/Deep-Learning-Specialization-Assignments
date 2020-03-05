@@ -6,7 +6,6 @@ Neural Networks and Deep Learning:
 Logistic Regression, Gradient descent, Deep Neural Networks, Forwardprop and Backprop
 
 Improving Deep Neural Networks Hyperparameter tuning, Regularization and Optimization:
-
 Random initialization, Dropout, L2 regularization, Normalization, Gradient checking for Vanishing and exploding gradients
 Mini-batch gradient descent, RMSprop, Adam optimization algorithm
 
